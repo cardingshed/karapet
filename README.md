@@ -1,9 +1,10 @@
 # karapet
 ### bridge tools quantifying luck
 
-This is a collection of free, open-source tools in Python for the card game bridge. <br>
-Statistical methods are employed by authorities to help distinguish between *luck* and *cheating*.
-This repository is intended to help players, investigators and any accused understand and independently perform such methodology.
+Statistical methods are employed by authorities to help distinguish between *luck* and *cheating*.  <br>
+This is a collection of free, open-source tools in Python for the card game bridge.  A test statistic used by
+the EBU follows the [Poisson Binomial probability distribution](https://en.wikipedia.org/wiki/Poisson_binomial_distribution) and a python
+implementation of this is also included.
 
 ### included as submodules:
 -[Redeal](https://github.com/anntzer/redeal) by Antony Lee <br>
@@ -14,8 +15,7 @@ This repository is intended to help players, investigators and any accused under
 -[PoiBoi](https://github.com/tsakim/poibin) by Mike Straka  <br>
     
     Python implementation of the Poisson Binomial probability distribution.
-    A test statistic used by the EBU follows the [Poisson Binomial probability distribution](https://en.wikipedia.org/wiki/Poisson_binomial_distribution) 
-
+    
 
 
 
