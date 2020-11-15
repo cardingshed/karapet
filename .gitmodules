@@ -1,0 +1,6 @@
+[submodule "redeal"]
+	path = redeal
+	url = https://github.com/anntzer/redeal
+[submodule "poibin"]
+	path = poibin
+	url = https://github.com/tsakim/poibin
